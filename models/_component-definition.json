@@ -47,7 +47,7 @@
           "...": "../blocks/content-fragment/_*.json#/definitions"
         },
         {
-          "...": "../blocks/brand-concierge/_*.json#/definitions"
+          "...": "../blocks/brandconcierge/_*.json#/definitions"
         }
       ]
     },
