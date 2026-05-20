@@ -414,6 +414,13 @@ header .nav-search-panel .search-bar-result .dropin-product-item-card {
   grid-template-columns: 60px 1fr;
 }
 
+header .nav-search-panel .search-bar-result .product-discovery-product-list__grid .dropin-product-item-card img,
+header .nav-search-panel .search-bar-result .product-discovery-product-list__grid .dropin-product-item-card__skeleton__image {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
 /* Product Item Skeleton */
 header .nav-search-panel .search-bar-result .dropin-product-item-card__content .dropin-skeleton-row {
   height: 1em;
